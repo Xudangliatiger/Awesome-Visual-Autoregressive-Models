@@ -1,1 +1,55 @@
 # Awesome-Visual-Autoregressive-Model
+
+A curated list of autoregressive models for visual generation, editing, understanding, etc.
+
+
+## Table of Contents <!-- omit in toc -->
+
+[//]: # (- [Basemodel]&#40;#&#41;)
+
+- [Visual Autoregression Paradigm](#visual-autoregression-paradigm)
+- [Visual Tokenizer](#Tokenizer)
+- [AR-based Text-to-image Generation](#evaluation-benchmarks-and-metrics)
+- [AR-based Text-to-video Generation](#evaluation-benchmarks-and-metrics)
+
+And the ultimate one!
+
+- [Unified Multimodal Generation & Understanding](#evaluation-benchmarks-and-metrics)
+
+
+
+----
+### Visual Autoregression Paradigm
+
+
++ Dec 2024:  [Randomized Autoregressive Visual Generation](https://arxiv.org/abs/2411.00776), BetyDance, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00776)
+  [![Star](https://img.shields.io/github/stars/bytedance/1d-tokenizer.svg?style=social&label=Star)](https://github.com/bytedance/1d-tokenizer) [![Website](https://img.shields.io/badge/Website-9cf)](https://yucornetto.github.io/projects/rar.html)
+
+
++ Apr 2024 (<span style="color: green;">NeurIPS24</span> <span style="color: red;">Oral</span>):  [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905), BetyDance, <span style="color: red;"> Best Paper Award</span> [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.02905)
+  [![Star](https://img.shields.io/github/stars/FoundationVision/VAR.svg?style=social&label=Star)](https://github.com/FoundationVision/VAR)
+
+----
+### Visual Tokenizer
+
++ Dec 2024:  [Spectral Image Tokenizer](https://arxiv.org/abs/2412.09607), CMU, Adobe&MBZUAI, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09607)
+
+[//]: # (  [![Star]&#40;https://img.shields.io/github/stars/lxa9867/ImageFolder.svg?style=social&label=Star&#41;]&#40;https://github.com/lxa9867/ImageFolder&#41; [![Website]&#40;https://img.shields.io/badge/Website-9cf&#41;]&#40;https://lxa9867.github.io/works/imagefolder/index.html&#41;)
+
++ Dec 2024:  [Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis](https://arxiv.org/abs/2412.04431), BetyDance, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04431)
+  [![Star](https://img.shields.io/github/stars/FoundationVision/Infinity.svg?style=social&label=Star)](https://github.com/FoundationVision/Infinity) [![Website](https://img.shields.io/badge/Website-9cf)](https://foundationvision.github.io/infinity.project/)
+
++ Oct 2024:  [ImageFolder: Autoregressive Image Generation with Folded Tokens](https://arxiv.org/abs/2410.01756), BetyDance, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.01756)
+  [![Star](https://img.shields.io/github/stars/lxa9867/ImageFolder.svg?style=social&label=Star)](https://github.com/lxa9867/ImageFolder) [![Website](https://img.shields.io/badge/Website-9cf)](https://lxa9867.github.io/works/imagefolder/index.html)
+
+----
+### Text-to-image
+
++ Dec 2024:  [Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis](https://arxiv.org/abs/2412.04431), BetyDance, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04431)
+  [![Star](https://img.shields.io/github/stars/FoundationVision/Infinity.svg?style=social&label=Star)](https://github.com/FoundationVision/Infinity) [![Website](https://img.shields.io/badge/Website-9cf)](https://foundationvision.github.io/infinity.project/)
+
+----
+### Text-to-video
+
++ Oct 2024:  [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/abs/2410.02757), HKU&BetyDance, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02757)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://epiphqny.github.io/Loong-video/)
