@@ -1,4 +1,4 @@
-# Awesome-Visual-Autoregressive-Model
+# Awesome-Visual-Autoregressive-Models
 
 A curated list of autoregressive models for visual generation, editing, understanding, etc.
 
@@ -26,7 +26,7 @@ And the ultimate one!
   [![Star](https://img.shields.io/github/stars/bytedance/1d-tokenizer.svg?style=social&label=Star)](https://github.com/bytedance/1d-tokenizer) [![Website](https://img.shields.io/badge/Website-9cf)](https://yucornetto.github.io/projects/rar.html)
 
 
-+ Apr 2024 (<span style="color: green;">NeurIPS24</span> <span style="color: red;">Oral</span>):  [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905), BetyDance, <span style="color: red;"> Best Paper Award</span> [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.02905)
++ Apr 2024 (**NeurIPS24 Oral**):  [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905), BetyDance,  **Best Paper Award** [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.02905)
   [![Star](https://img.shields.io/github/stars/FoundationVision/VAR.svg?style=social&label=Star)](https://github.com/FoundationVision/VAR)
 
 ----
@@ -43,13 +43,21 @@ And the ultimate one!
   [![Star](https://img.shields.io/github/stars/lxa9867/ImageFolder.svg?style=social&label=Star)](https://github.com/lxa9867/ImageFolder) [![Website](https://img.shields.io/badge/Website-9cf)](https://lxa9867.github.io/works/imagefolder/index.html)
 
 ----
-### Text-to-image
+### AR-based Text-to-image Generation
 
 + Dec 2024:  [Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis](https://arxiv.org/abs/2412.04431), BetyDance, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04431)
   [![Star](https://img.shields.io/github/stars/FoundationVision/Infinity.svg?style=social&label=Star)](https://github.com/FoundationVision/Infinity) [![Website](https://img.shields.io/badge/Website-9cf)](https://foundationvision.github.io/infinity.project/)
 
 ----
-### Text-to-video
+### AR-based Text-to-video Generation
 
 + Oct 2024:  [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/abs/2410.02757), HKU&BetyDance, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02757)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://epiphqny.github.io/Loong-video/)
+
+
+----
+### Unified Multimodal Generation & Understanding
+
++ Oct 2024: [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2410.13848), DeepSeek, HKU&PKU, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04431)
+  [![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star)](https://github.com/deepseek-ai/Janus)  [![Demo](https://img.shields.io/badge/demo-gree)](https://huggingface.co/spaces/deepseek-ai/Janus-1.3B)
+
