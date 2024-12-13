@@ -22,7 +22,11 @@ And the ultimate one!
 ### Visual Autoregression Paradigm
 
 
-+ Dec 2024:  [Randomized Autoregressive Visual Generation](https://arxiv.org/abs/2411.00776), BetyDance, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00776)
++ Dec 2024:  [RandAR: Decoder-only Autoregressive Visual Generation in Random Orders](https://rand-ar.github.io/), UIUC, MIT&Adobe, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01827)
+  [![Star](https://img.shields.io/github/stars/ziqipang/RandAR.svg?style=social&label=Star)](https://github.com/ziqipang/RandAR) [![Website](https://img.shields.io/badge/Website-9cf)](https://rand-ar.github.io/)
+
+
++ Nov 2024:  [Randomized Autoregressive Visual Generation](https://arxiv.org/abs/2411.00776), BetyDance, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00776)
   [![Star](https://img.shields.io/github/stars/bytedance/1d-tokenizer.svg?style=social&label=Star)](https://github.com/bytedance/1d-tokenizer) [![Website](https://img.shields.io/badge/Website-9cf)](https://yucornetto.github.io/projects/rar.html)
 
 
@@ -41,6 +45,8 @@ And the ultimate one!
 
 + Oct 2024:  [ImageFolder: Autoregressive Image Generation with Folded Tokens](https://arxiv.org/abs/2410.01756), BetyDance, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.01756)
   [![Star](https://img.shields.io/github/stars/lxa9867/ImageFolder.svg?style=social&label=Star)](https://github.com/lxa9867/ImageFolder) [![Website](https://img.shields.io/badge/Website-9cf)](https://lxa9867.github.io/works/imagefolder/index.html)
+
+
 
 ----
 ### AR-based Text-to-image Generation
