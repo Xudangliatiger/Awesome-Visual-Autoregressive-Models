@@ -43,16 +43,21 @@ And the ultimate one!
 + Dec 2024:  [Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis](https://arxiv.org/abs/2412.04431), BetyDance, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04431)
   [![Star](https://img.shields.io/github/stars/FoundationVision/Infinity.svg?style=social&label=Star)](https://github.com/FoundationVision/Infinity) [![Website](https://img.shields.io/badge/Website-9cf)](https://foundationvision.github.io/infinity.project/)
 
++ Nov 2024:  [Factorized Visual Tokenization and Generation](https://showlab.github.io/FQGAN/), NUS, FDU&Amazon, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16681)
+  [![Star](https://img.shields.io/github/stars/showlab/FQGAN.svg?style=social&label=Star)](https://github.com/showlab/FQGAN) [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/FQGAN/)
+
 + Oct 2024:  [ImageFolder: Autoregressive Image Generation with Folded Tokens](https://arxiv.org/abs/2410.01756), BetyDance, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.01756)
   [![Star](https://img.shields.io/github/stars/lxa9867/ImageFolder.svg?style=social&label=Star)](https://github.com/lxa9867/ImageFolder) [![Website](https://img.shields.io/badge/Website-9cf)](https://lxa9867.github.io/works/imagefolder/index.html)
-
-
 
 ----
 ### AR-based Text-to-image Generation
 
 + Dec 2024:  [Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis](https://arxiv.org/abs/2412.04431), BetyDance, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04431)
   [![Star](https://img.shields.io/github/stars/FoundationVision/Infinity.svg?style=social&label=Star)](https://github.com/FoundationVision/Infinity) [![Website](https://img.shields.io/badge/Website-9cf)](https://foundationvision.github.io/infinity.project/)
+
++ Oct 2024:  [FLUID: Scaling AutoRegressive Text-to-image Generative Models with Continuous Tokens](https://arxiv.org/abs/2410.13863), DeepMind&MIT, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13863)
+
+[//]: # (  [![Star]&#40;https://img.shields.io/github/stars/FoundationVision/Infinity.svg?style=social&label=Star&#41;]&#40;https://github.com/FoundationVision/Infinity&#41; [![Website]&#40;https://img.shields.io/badge/Website-9cf&#41;]&#40;https://foundationvision.github.io/infinity.project/&#41;)
 
 ----
 ### AR-based Text-to-video Generation
