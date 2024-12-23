@@ -21,6 +21,9 @@ And the ultimate one!
 ----
 ### Visual Autoregression Paradigm
 
++ Dec 2024:  [Parallelized Autoregressive Visual Generation](https://rand-ar.github.io/), UIUC, MIT&Adobe, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01827)
+  [![Star](https://img.shields.io/github/stars/ziqipang/RandAR.svg?style=social&label=Star)](https://github.com/ziqipang/RandAR) [![Website](https://img.shields.io/badge/Website-9cf)](https://rand-ar.github.io/)
+
 
 + Dec 2024:  [RandAR: Decoder-only Autoregressive Visual Generation in Random Orders](https://rand-ar.github.io/), UIUC, MIT&Adobe, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01827)
   [![Star](https://img.shields.io/github/stars/ziqipang/RandAR.svg?style=social&label=Star)](https://github.com/ziqipang/RandAR) [![Website](https://img.shields.io/badge/Website-9cf)](https://rand-ar.github.io/)
