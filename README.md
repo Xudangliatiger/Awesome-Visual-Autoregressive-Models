@@ -20,6 +20,8 @@ And the ultimate one!
 
 ----
 ### Visual Autoregression Paradigm
++ Dec 2024: [Next Patch Prediction for Autoregressive Visual Generation](https://github.com/PKU-YuanGroup/Next-Patch-Prediction), PKU, PengCheng Lab, NUS, HKUST, UCF, Everlyn&Rabbitpre AI, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.15321)
+  [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Next-Patch-Prediction.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Next-Patch-Prediction) 
 
 + Dec 2024:  [Parallelized Autoregressive Visual Generation](https://rand-ar.github.io/), UIUC, MIT&Adobe, [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01827)
   [![Star](https://img.shields.io/github/stars/ziqipang/RandAR.svg?style=social&label=Star)](https://github.com/ziqipang/RandAR) [![Website](https://img.shields.io/badge/Website-9cf)](https://rand-ar.github.io/)
